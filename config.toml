@@ -1,0 +1,21 @@
+baseURL = "http://russianflashcardsonline.com/"
+languageCode = "en-us"
+title = "Russian Flash Cards Online"
+theme = "dimension"
+defaultContentLanguage = "en"
+timeout=20000
+
+[params]
+  copyright = "2018 Mark Allen"
+  logo = 'fa-trophy'
+  description = 'Here you will find flash cards to help you learn Russian!'
+
+[[params.social]]
+  medium = "instagram"
+    icon = "instagram"
+    link = "https://instagram.com/bytemeorg"
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  weight = 1
