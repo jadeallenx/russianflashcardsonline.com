@@ -6,7 +6,7 @@ draft = false
 +++
 
 Please make sure you already have the free [Anki flashcard software][1]
-installed on your device(s). See Usage if you have further
+installed on your device(s). See [Usage][2] if you have further
 questions.
 
 # Cases #
@@ -24,13 +24,16 @@ when they are used in accusitive case. So starting with genitive
 case first allows you to get a good running jump into accusitive
 case which ought to be the second case you practice.
 
-- Example 1
-- Example 2
+- [Genitive](/decks/Russian%20Genitive%20Case.apkg)
+- [Genitive-Accusitive](/decks/Russian%20Genitive-Accusitive%20Cases.apkg)
+- [Genitive-Accusitive-Prepositional](/decks/Russian%20Gen-Acc-Prep%20Cases.apkg)
+- [Genitive-Accusitive-Prepositional-Dative](/decks/Russian%20Gen-Acc-Prep-Dat%20Cases.apkg)
+- [Genitive-Accusitive-Prepositional-Dative-Instrumental](/decks/Russian%20Gen-Acc-Prep-Dat-Inst%20Cases.apkg)
 
 ## Plural nouns ##
 
-- Plural example 1
-- Plural example 2
+- [Plural Genitive](/decks/Russian%20Cases%20-%20Gen%20-%20Plural%20nouns.apkg)
+- [Plural Genitive and Prepositional](/decks/Russian%20Cases%20-%20Gen%20Prep%20-%20Plural%20nouns.apkg)
 
 # Prepositions
 This deck will help you practice and remember cases associated 
@@ -40,4 +43,5 @@ of our example sentences.
 
 - Preposition deck
 
-[1]: https://www.ankiapps.com
+[1]: https://apps.ankiweb.net
+[2]: {{< relref "usage.md" >}}
