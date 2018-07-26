@@ -10,7 +10,7 @@ installed on your device(s). See [Usage][2] if you have further
 questions.
 
 # Cases #
-These flashcards drill endings for cases. 
+These flashcards drill endings for cases.
 
 **Note**: These phrases in the flash cards were *randomly generated* - that
 means often they do not make sense (example: моя синяя ошибка - my blue
@@ -36,12 +36,38 @@ case which ought to be the second case you practice.
 - [Plural Genitive and Prepositional](/decks/Russian%20Cases%20-%20Gen%20Prep%20-%20Plural%20nouns.apkg)
 
 # Prepositions
-This deck will help you practice and remember cases associated 
-with specific prepositions. It can also help you remember how
-prepositions are used to have different meanings in the context 
-of our example sentences.
+This deck will help you practice and remember cases associated
+with specific prepositions. The examples demonstrate the
+way in which prepositions are used to express different concepts.
+In some cases, the case used by a preposition changes with its
+meaning.
 
-- Preposition deck
+These decks were generated using [this software][3].
+
+This is the main preposition deck. It contains 98 cards covering
+around 60 prepositions. On the front of the card is an example
+sentence using the preposition.  The preposition is highlighted.
+
+The back of the card contains the preposition, the meaning
+of the preposition, the case it uses and a translation of
+the example sentence.
+
+- [Preposition deck](/decks/Russian%20Prepositions.apkg)
+
+There is also an "advanced" deck which contains 23 less frequent
+prepositions.
+
+- [Advanced preposition deck](/decks/Russian%20Prepositions%20-%20Advanced.apkg)
+
+These two decks would not be possible to build without help from
+[Max][max], Anna [@russian\_for\_americans][anna],
+Katya [@russian\_foryou][katya], [Ilona][ilona],
+and Marina.  Thank you so much!
 
 [1]: https://apps.ankiweb.net
 [2]: {{< relref "usage.md" >}}
+[3]: https://github.com/mrallen1/russian_prepositions
+[max]: https://www.youtube.com/channel/UCklUqFEcJqFnWKEBozw5p4g
+[anna]: https://www.instagram.com/russian_for_americans
+[katya]: https://www.instagram.com/russian_foryou/
+[ilona]: https://www.italki.com/teacher/1932820
