@@ -34,6 +34,7 @@ case which ought to be the second case you practice.
 
 - [Plural Genitive](/decks/Russian%20Cases%20-%20Gen%20-%20Plural%20nouns.apkg)
 - [Plural Genitive and Prepositional](/decks/Russian%20Cases%20-%20Gen%20Prep%20-%20Plural%20nouns.apkg)
+- [Plural Genitive, Prepositional and Dative](/decks/Russian%20Cases%20-%20Gen%20Prep%20Dat%20-%20Plural%20nouns.apkg)
 
 # Prepositions
 This deck will help you practice and remember cases associated
