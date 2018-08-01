@@ -65,6 +65,13 @@ These two decks would not be possible to build without help from
 Katya [@russian\_foryou][katya], [Ilona][ilona],
 and Marina.  Thank you so much!
 
+# Personal pronouns
+I recently discovered that I was pretty shaky on personal pronouns in
+dative, instrumental and prepositional cases, so I made a deck to practice
+them all.  [The source code to generate the import file is here.](https://gist.github.com/mrallen1/eea475f2e1c6d67f82c667d17c8ccdd0)
+
+- [Personal Pronouns](/decks/Personal%20Pronouns.apkg)
+
 [1]: https://apps.ankiweb.net
 [2]: {{< relref "usage.md" >}}
 [3]: https://github.com/mrallen1/russian_prepositions
