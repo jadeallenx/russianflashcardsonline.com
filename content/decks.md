@@ -31,10 +31,17 @@ case which ought to be the second case you practice.
 - [Genitive-Accusitive-Prepositional-Dative-Instrumental](/decks/Russian%20Gen-Acc-Prep-Dat-Inst%20Cases.apkg)
 
 ## Plural nouns ##
+You'll notice there's no coverage of "accusitive" case plurals but that's
+because the accusitive case with plural nouns borrows either nominative or
+genitive plural forms depending on if the noun is animate.
+
+Except for genitive, plural endings are quite regular across all nouns and
+adjectives regardless of the noun's gender.
 
 - [Plural Genitive](/decks/Russian%20Cases%20-%20Gen%20-%20Plural%20nouns.apkg)
 - [Plural Genitive and Prepositional](/decks/Russian%20Cases%20-%20Gen%20Prep%20-%20Plural%20nouns.apkg)
 - [Plural Genitive, Prepositional and Dative](/decks/Russian%20Cases%20-%20Gen%20Prep%20Dat%20-%20Plural%20nouns.apkg)
+- [Plural Genitive, Prepositional, Dative, and Instrumental](/decks/Russian%20Cases-All-Plural-nouns.apkg)
 
 # Prepositions
 This deck will help you practice and remember cases associated
