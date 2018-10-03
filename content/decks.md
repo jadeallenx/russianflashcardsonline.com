@@ -30,6 +30,8 @@ case which ought to be the second case you practice.
 - [Genitive-Accusitive-Prepositional-Dative](/decks/Russian%20Gen-Acc-Prep-Dat%20Cases.apkg)
 - [Genitive-Accusitive-Prepositional-Dative-Instrumental](/decks/Russian%20Gen-Acc-Prep-Dat-Inst%20Cases.apkg)
 
+- [Shared from AnkiWeb](https://ankiweb.net/shared/info/440486438)
+
 ## Plural nouns ##
 You'll notice there's no coverage of "accusitive" case plurals but that's
 because the accusitive case with plural nouns borrows either nominative or
@@ -42,6 +44,8 @@ adjectives regardless of the noun's gender.
 - [Plural Genitive and Prepositional](/decks/Russian%20Cases%20-%20Gen%20Prep%20-%20Plural%20nouns.apkg)
 - [Plural Genitive, Prepositional and Dative](/decks/Russian%20Cases%20-%20Gen%20Prep%20Dat%20-%20Plural%20nouns.apkg)
 - [Plural Genitive, Prepositional, Dative, and Instrumental](/decks/Russian%20Cases-All-Plural-nouns.apkg)
+
+- [Shared from AnkiWeb](https://ankiweb.net/shared/info/855841878)
 
 # Prepositions
 This deck will help you practice and remember cases associated
@@ -61,6 +65,8 @@ of the preposition, the case it uses and a translation of
 the example sentence.
 
 - [Preposition deck](/decks/Russian%20Prepositions.apkg)
+
+- [Shared from AnkiWeb](https://ankiweb.net/shared/info/2026647392)
 
 There is also an "advanced" deck which contains 23 less frequent
 prepositions.
